@@ -1,0 +1,17 @@
+.event-registration{
+    text-align: center;
+    margin-top:50px;
+}
+
+.form-ligo{
+    width:202px;
+    height:60px;
+}
+
+.registration-from{
+    border:1px solid gray;
+    padding:40px;
+    width:500px;
+    margin: 0 auto;
+    margin-top:20px;
+}
